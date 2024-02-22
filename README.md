@@ -1,12 +1,12 @@
-# How to run this application ?
+# How to run this Application ?
 
-DashBoard using MERN stack uses MongoDB,Express js, React JS and Node js for smooth user interaction and easy data flow along the whole application.As the data provided during the assignment i have visualized it very efficiently...
+DashBoard using MERN stack uses MongoDB,Express js, React JS and Node js for smooth user interaction and easy data flow along the whole application.As the data provided during the assignment i have visualized it very efficiently through d3js...Also added modern react feature like infinite-scroll.
 
 ## Getting Started
 
 These instructions will guide you on how to clone the repository to your local machine.
 
-### Prerequisites
+### Pre-Requisites
 
 Ensure that you have Git and Node.js installed on your machine. You can download and install them  from [here](https://git-scm.com/) and [here](https://nodejs.org/en).
 
