@@ -1,0 +1,16 @@
+{
+  "name": "dashboard-backend",
+  "version": "1.0.0",
+  "description": "Backend of the dashboard application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaid kamboo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "framer-motion": "^11.0.5"
+  }
+}

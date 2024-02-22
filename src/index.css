@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+::-webkit-scrollbar{
+    width:8px;
+    background-color: transparent;
+    /* border:2px solid red; */
+  }
+::-webkit-scrollbar-thumb{
+    border-radius: 100vw;
+    /* border: .1px solid #00ffd5; */
+    background-color: rgba(12, 26, 19, 0.548);
+  }
+.card{
+  backdrop-filter: blur(10px);
+}
